@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarank21
-- 🌱 I’m pursuing B.Tech in Computer Science at IIT Madras
-- 💞️ I’m looking to collaborate on C++ or Python projects
-- 📫 How to reach me - Email me at sarank2110@gmail.com
+- 🌱 I’m working as a software developer
+- 💞️ I currently work on ETL platforms to move data efficiently. Am curious to learn and collaborate
+- 📫 You can reach me at sarank2110@gmail.com
 
 <!---
 sarank21/sarank21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
